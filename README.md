@@ -1,1 +1,1 @@
-# offline_capabilty_core_ml
+# offline-capabilty-coreML
